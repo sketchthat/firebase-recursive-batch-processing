@@ -16,5 +16,5 @@ Deploy `firebase` functions;
 firebase deploy --only functions
 ```
 
-Trigger the `batchWriteUser` function, update the RTDB `/setupUsers: true`
-Trigger the `batchUpdateUser` function, update the RTDB `/triggerUsers: true`
+- Trigger the `batchWriteUser` function, update the RTDB `/setupUsers: true`
+- Trigger the `batchUpdateUser` function, update the RTDB `/triggerUsers: true`
